@@ -7,7 +7,7 @@ for projects based on skills, interests, experience, and availability.
 
 ##  Live Demo
 
-https://skill-sync-eight.vercel.app/talent
+https://skill-sync-eight.vercel.app/
 
 ##  Features
 
